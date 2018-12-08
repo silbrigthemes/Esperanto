@@ -173,6 +173,27 @@ Amuziĝu!
                 text-shadow:none;
             }
             
+            ::-moz-selection{
+                background-color:{color:Background};
+                color:{color:Posts};
+                text-decoration:none;
+                text-shadow:none;
+            }
+            
+            ::-o-selection{
+                background-color:{color:Background};
+                color:{color:Posts};
+                text-decoration:none;
+                text-shadow:none;
+            }
+            
+            ::-webkit-selection{
+                background-color:{color:Background};
+                color:{color:Posts};
+                text-decoration:none;
+                text-shadow:none;
+            } 
+            
             /* Custom Tooltips */
             #s-m-t-tooltip{
                 max-width:300px;
