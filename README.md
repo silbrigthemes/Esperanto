@@ -24,7 +24,8 @@ A theme inspired by Esperanto, a language meant to bring people all over the glo
 <li>Three font sizes and font options.</li>
 </ul>
 
-<h2>Golden Rules</h2>
+<h2>Customization Guide</h2>
+<h3>Golden Rules</h3>
 <ol>
 <li>Read this customization guide first.</li>
 <li>Check under <a href="https://silbrigsupport.tumblr.com/" title="silbrigsupport | official support blog of silbrigthemes" target="_blank">silbrigsupport</a> whether there is already an answer to your problem.</li>
@@ -33,8 +34,8 @@ A theme inspired by Esperanto, a language meant to bring people all over the glo
 <li>Be specific! Name the theme/page you're using, on which blog/site you're using it and what problem you're facing.</li>
 <li>Be patient! As a student I am on hiatus often and it will take some time for me to answer your question, especially when it's a complex problem.&nbsp;</li>
 </ol>
-<h2>Colors</h2>
-<h3>Background</h3>
+<h3>Colors</h3>
+<h4>Background</h4>
 <p>The color option <strong>Background</strong> affects the following elements of the theme:</p>
 <ul>
 <li><strong>Extras</strong></li>
@@ -100,12 +101,12 @@ A theme inspired by Esperanto, a language meant to bring people all over the glo
 </ul>
 </ul>
 <hr />
-<h3>Bold</h3>
+<h4>Bold</h4>
 <p>The color option <strong>Bold</strong> changes the text color for bold text.</p>
-<h3>Italic</h3>
+<h4>Italic</h4>
 <p>The color option <strong>Italic</strong> changes the text color for italicised text.</p>
 <hr />
-<h3>Posts</h3>
+<h4>Posts</h4>
 <p>The color option <strong>Posts</strong> affects the following elements of the theme:</p>
 <ul>
 <li><strong>Extras</strong></li>
@@ -143,7 +144,7 @@ A theme inspired by Esperanto, a language meant to bring people all over the glo
 </ul>
 </ul>
 <hr />
-<h3>Text</h3>
+<h4>Text</h4>
 <p>The color <strong>Text</strong> affects the following elements of the theme:</p>
 <ul>
 <li>Body text color.</li>
@@ -155,12 +156,12 @@ A theme inspired by Esperanto, a language meant to bring people all over the glo
 <li>Navigation, pagination and custom controls text color on hover.</li>
 </ul>
 <hr /><hr />
-<h2>Custom Links</h2>
+<h3>Custom Links</h3>
 <p>There are five custom links, which can be disabled or enabled at choice. You can set their URL, their title (tooltip text you&rsquo;ll see upon hovering over them) and a specific icon.</p>
 <p><img src="https://66.media.tumblr.com/7e478b828d65c1bcd179bd1779009b43/tumblr_inline_pjfxs57CRU1v0e5mg_500.png" /></p>
 <p>To set the custom icon for the links, just head to <a href="https://css-tricks.com/" title="css-tricks" target="_blank">themehive&rsquo;s honeybee icon font</a>, search for the name of the icon and add it to the section &ldquo;Custom Icon&rdquo;. Upon hitting the &ldquo;save&rdquo; button, the changes will go into effect.</p>
 <hr />
-<h2>Unordered Lists</h2>
+<h3>Unordered Lists</h3>
 <p>To change the icon for the unordered lists, just change the unicode in the field "<strong>Unordered List</strong>" to the unicode of the icon you would like to have. You can find the icons and their unicodes on the page for&nbsp;<a href="https://css-tricks.com/" title="css-tricks" target="_blank">themehive&rsquo;s honeybee icon font</a>.</p>
 <p><img src="https://66.media.tumblr.com/f823f6b84b58b1381bf1d5b7dbe22d71/tumblr_inline_pjg27xcqiz1v0e5mg_500.png" /></p>
 
