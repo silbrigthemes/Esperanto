@@ -3,6 +3,21 @@ Theme #10, <b>Esperanto</b>, by silbrigthemes.
 
 <h2>Description</h2>
 A theme inspired by Esperanto, a language meant to bring people all over the globe together! Today, on the 15th December, we celebrate the <b>Zamenhof Day</b> (<i>Zamenhofa Tago</i>) to remember the creator of Esperanto, Ludwik L. Zamenhof.
+
+If you like my work, and can afford to support me, it would be greatly appreciated if you donated to my <a href="https://www.ko-fi.com/juliasteiwer" title="donate to my ko-fi">ko-fi account</a>.
+
+<h2>Directory</h2>
+<ul>
+  <li><a href="#features" title="features">Features</a></li>
+  <li><a href="#customization-guide" title="customization guide">Customization Guide</a></li>
+  <ul>
+    <li><a href="#colors" title="colors">Colors</a></li>
+    <li><a href="#custom-links" title="custom links">Custom Links</a></li>
+    <li><a href="#unordered-lists" title="unordered lists">Unordered Lists</a></li>    
+  </ul>  
+  <li><a href="#credits" title="credits">Credits</a></li>  
+</ul>  
+
 <h2>Features</h2>
 <ul>
 <li>Sidebar.</li>
