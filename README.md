@@ -6,6 +6,9 @@ A theme inspired by Esperanto, a language meant to bring people all over the glo
 
 If you like my work, and can afford to support me, it would be greatly appreciated if you donated to my <a href="https://www.ko-fi.com/juliasteiwer" title="donate to my ko-fi">ko-fi account</a>.
 
+<img src="https://66.media.tumblr.com/e11e75a81788533999647875bb16e3c1/tumblr_pjf4tqxTM11wsskx3o1_r1_1280.png" alt="screenshot"/>
+<small>Screenshot from theme <a href="https://esperantotheme.tumblr.com/" title="go to theme">Esperanto</a>.</small>
+
 <h2>Directory</h2>
 <ul>
   <li><a href="#features" title="features">Features</a></li>
